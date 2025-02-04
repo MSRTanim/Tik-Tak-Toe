@@ -25,7 +25,9 @@
 
 ## **📸 Game Preview**
 <p align="center">
-    <img src="https://github.com/CodeWithTanim/Tik-Tak-Toe/blob/main/assets/game-preview.png" width="60%" alt="Game Preview">
+    <img src="https://github.com/CodeWithTanim/Tik-Tak-Toe/blob/main/Preview/HomePage.png" width="60%" alt="Game Preview">
+    <img src="https://github.com/CodeWithTanim/Tik-Tak-Toe/blob/main/Preview/GamePage.png" width="60%" alt="Game Preview">
+    <img src="https://github.com/CodeWithTanim/Tik-Tak-Toe/blob/main/Preview/WinningPage.png" width="60%" alt="Game Preview">
 </p>
 
 ---
@@ -46,9 +48,10 @@
 ### **🔹 Run Locally**
 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/CodeWithTanim/Tik-Tak-Toe.git
+git clone https://github.com/CodeWithTanim/Tik-Tak-Toe.git/
 ```
 2️⃣ Open the index.html file in a browser
+
 3️⃣ Enjoy playing! 🎉
 
 📌 Upcoming Features
@@ -56,6 +59,14 @@ git clone https://github.com/CodeWithTanim/Tik-Tak-Toe.git
 ✅ Multiplayer with WebSockets 🌍
 ✅ Leaderboard & Score Tracking 🏆
 
-📬 Connect With Me
-<p align="center"> <a href="https://fb.com/msrtanim.py" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/msrtanim.py" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="https://twitter.com/msrtanim__" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://codepen.io/msrtanim" target="blank"><img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" /></a> <a href="https://discord.gg/4Y4KUUADMC" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> </p>
+## 📬 Connect With Me
+<p align="center">
+    <a href="https://www.facebook.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://www.instagram.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.twitter.com/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/CodeWithTanim" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://discord.gg/4Y4KUUADMC" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
 <p align="center"> 🎯 **If you like this project, don't forget to give it a ⭐ on GitHub!** 🎯 </p> ```
