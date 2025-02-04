@@ -54,10 +54,7 @@ git clone https://github.com/CodeWithTanim/Tik-Tak-Toe.git/
 
 3️⃣ Enjoy playing! 🎉
 
-📌 Upcoming Features
-✅ AI Mode (Play vs. Computer 🤖)
-✅ Multiplayer with WebSockets 🌍
-✅ Leaderboard & Score Tracking 🏆
+---
 
 ## 📬 Connect With Me
 <p align="center">
@@ -69,4 +66,4 @@ git clone https://github.com/CodeWithTanim/Tik-Tak-Toe.git/
     <a href="https://discord.gg/4Y4KUUADMC" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<p align="center"> 🎯 **If you like this project, don't forget to give it a ⭐ on GitHub!** 🎯 </p> ```
+<p align="center"> 🎯 **If you like this project, don't forget to give it a ⭐ on GitHub!** 🎯 </p> 
